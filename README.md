@@ -1,3 +1,8 @@
-# hello-world
-This is an example repo. Created for DATS-6103 class.
-Hello, I like to play 🏀 and go 🏃 in my free time.
+# DATS 6103 - Intro to Data Mining
+Hello, my name is Tejas Rawal and I'm a software developer.  
+
+In my free time, I like to:
+- travel 🗺️
+- hike 🥾
+- play 🏀
+- go 🏃
